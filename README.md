@@ -83,19 +83,8 @@ Hi, I'm Alberto!
 -->
 
 
-## <a href="https://github.com/Bouaskaoun"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
+## <a href="https://github.com/AlbertoGalvezGomez"></a> GitHub Stats
 
-<br/>
-<summary><b>⚡ Alberto's Stats</b></summary>
-<br/>
-<p align="center">
-	<a href="https://github.com/AlbertoGalvezGomez">
-	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=bouaskaoun&show_icons=true" alt="AlbertoGalvezGomez">
-	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=bouaskaoun" alt="AlbertoGalvezGomez">
-	</a>
-	<br/>
-</p>
-<br/>
 <!--
 <summary><b>⚡ Activity graph</b></summary>
 <br/>
@@ -114,9 +103,6 @@ Hi, I'm Alberto!
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertoGalvezGomez&langs_count=8&layout=compact" alt="AlbertoGalvezGomez">
 	</a>
 	<br/>
-<br/>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</p>
 <br/>
 
 <table style="border: none">
