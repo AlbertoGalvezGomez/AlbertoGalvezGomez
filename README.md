@@ -22,8 +22,8 @@ Hi, I'm Alberto!
 <hr>
 
 <pre>
-💻 I am a Full Stack Developer
-📚 Studying in Málaga, Spain
+💻 I am a Full Stack Developer based on Spain
+📚 Right now studying 2º DAM
 📝 I have a strong interest in Data Science and Artificial Intelligence
 🌟 Main languages: Java
 🚩 Interested in Full Stack Machine Learning Application development
