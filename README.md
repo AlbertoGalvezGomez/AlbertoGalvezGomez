@@ -22,7 +22,7 @@ Hi, I'm Alberto!
 <hr>
 
 <pre>
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
+💻 I am a Full Stack Developer
 📚 Studying in Málaga, Spain
 📝 I have a strong interest in Data Science and Artificial Intelligence
 🌟 Main languages: Java
